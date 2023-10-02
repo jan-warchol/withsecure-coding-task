@@ -1,0 +1,1 @@
+{"time": "12:34:56", "name": "parse: with: care: ", "challenge": "Find the fifth value in the \"sequence\"", "hint": "WE9SIHdpdGggMHgxN0YK", "one": "0x154", "two": "0x150", "three": "0x14A", "four": "0x144"}
